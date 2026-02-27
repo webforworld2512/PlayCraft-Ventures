@@ -31,7 +31,7 @@ export default function Navbar() {
           {/* Logo */}
           <a href="#" className="flex items-center gap-2">
             <img
-              src="assets/edited-photo-logo.png"
+              src="/PlayCraft-Ventures/assets/edited-photo-logo.png"
               alt="Playcraft Ventures"
               className="h-10 w-auto"
             />
