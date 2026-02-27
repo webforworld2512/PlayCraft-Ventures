@@ -1,0 +1,16 @@
+{
+  "name": "PlayCraft Ventures",
+  "short_name": "PlayCraft",
+  "description": "Investing Where Play Meets Technology",
+  "start_url": "/PlayCraft-Ventures/",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#7c3aed",
+  "icons": [
+    {
+      "src": "https://base44.com/logo_v2.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
