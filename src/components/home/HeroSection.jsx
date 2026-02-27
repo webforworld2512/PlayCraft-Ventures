@@ -15,7 +15,7 @@ export default function HeroSection() {
           loop
           muted
           playsInline
-          className="absolute inset-0 w-full h-full object-cover opacity-20"
+          className="absolute inset-0 w-full h-full object-cover opacity-80"
         >
           <source src="/PlayCraft-Ventures/assets/Trimmed.mp4" type="video/mp4" />
         </video>
