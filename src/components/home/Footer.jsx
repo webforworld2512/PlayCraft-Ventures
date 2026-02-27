@@ -12,7 +12,7 @@ export default function Footer() {
           <div className="md:col-span-2">
             <div className="mb-4">
               <img 
-                src="assets/edited-photo-logo.png" 
+                src="/PlayCraft-Ventures/assets/edited-photo-logo.png" 
                 alt="Playcraft Ventures" 
                 className="h-10 w-auto"
               />
